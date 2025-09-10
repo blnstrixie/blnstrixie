@@ -1,12 +1,12 @@
 ## Hi, I'm Trixie 👋
-I am an **aspiring Junior Developer** from the Philippines, passionate about building practical, interactive, and user-friendly web projects. I enjoy improving my skills continuously through real-world coding challenges.  
+I am from the Philippines, passionate about building practical, interactive, and user-friendly web projects. I enjoy improving my skills continuously through real-world coding challenges.  
 
 ✨ I am actively seeking opportunities to contribute to meaningful projects, grow as a developer, and build engaging digital experiences.  
   
 ## Tech-Stack
-- **Programming & Scripting:** JavaScript, PHP (basic)
+- **Programming & Scripting:** C#, JavaScript, PHP (basic)
 - **Front-end & Web Development:** HTML5, CSS3, WordPress
-- **Database Technologies:** SQL (MariaDB, MySQL)
+- **Database Technologies:** SQL, MariaDB, MySQL
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code, XAMPP, MySQL Workbench
 - **Design & Prototyping:** Figma, Adobe Photoshop, Adobe Illustrator
 
