@@ -4,7 +4,7 @@ I am from the Philippines, passionate about building practical, interactive, and
 ✨ I am actively seeking opportunities to contribute to meaningful projects, grow as a developer, and build engaging digital experiences.  
   
 ## Tech-Stack
-- **Programming & Scripting:** C#, JavaScript, PHP (basic)
+- **Programming & Scripting:** C#, JavaScript
 - **Front-end & Web Development:** HTML5, CSS3, WordPress
 - **Database Technologies:** SQL, MariaDB, MySQL
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code, XAMPP, MySQL Workbench
@@ -28,7 +28,7 @@ Here are some of my notable projects:
   
 ## Currently Learning
 - Advanced JavaScript (ES6+ features, asynchronous programming)
-- PHP fundamentals (for back-end)
+- C# Fundamentals
 
 ## Connect with Me
 - **Email:** trixiebelnas7@gmail.com
